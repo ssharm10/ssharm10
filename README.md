@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**ssharm10/ssharm10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey there! 👋 I'm Soniya Sharma 🌟  
+Data Scientist | Ex-NASA & Intel | Curious Builder
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+I'm a astrophysicist-turned-data scientist passionate about solving real-world problems with data. From mapping galaxies at NASA to reducing defect densities at Intel, I now focus on  building end-to-end machine learning solutions that power product decisions and business outcomes.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 💼 What I Do  
+📈 Build predictive models and recommender systems for product analytics.  
+📊 Craft insightful dashboards and stories with data.  
+🤖 Explore machine learning, experimentation, and scalable data pipelines.
+⚙️ Collaborate cross-functionally with engineering, product, and business teams  
+
+### 🧰 Tech Stack  
+Python | SQL | Streamlit | Tableau | Git |  
+
+📫 Let’s connect: [LinkedIn](http://linkedin.com/in/sharma-soniya)  
